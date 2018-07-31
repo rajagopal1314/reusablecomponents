@@ -28,7 +28,7 @@ import com.sendgrid.Method;
 import com.sendgrid.Personalization;
 import com.sendgrid.Request;
 import com.sendgrid.SendGrid;
-
+/*this is modified*/
 public class EmailSender {
 
 	private static final Logger logger = LogManager.getLogger(EmailSender.class.getName());
